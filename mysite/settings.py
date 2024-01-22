@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ["*"]
 # Comment out the following line and place your railway URL, and your production URL in the array.
 CSRF_TRUSTED_ORIGINS = ["*"]
 
+
 # Application definition
 
 INSTALLED_APPS = [
